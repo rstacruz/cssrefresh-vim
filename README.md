@@ -3,7 +3,8 @@ CSS Refresher for VIM
 
 Reloads the CSS files of the current Safari tab everytime a .css file is saved.
 
-How to use:
+Usage
+-----
 
  - Install this VIM plugin using pathogen.
    (alternatively, just copy the files to `~/.vim/plugin`)
@@ -14,9 +15,10 @@ How to use:
 
  - Make a few changes and save it.
 
- - Watch as how Safari refreshes your CSS changes!
+ - Watch as Safari refreshes your CSS changes!
 
-Assumptions:
+Assumptions
+-----------
 
  - You're using a Mac (relies on AppleScript); and
 
